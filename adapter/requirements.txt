@@ -2,3 +2,6 @@ fastapi
 uvicorn
 aiokafka
 pydantic
+
+# for develop only
+aiohttp

@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
- CMD ["python", "service_2.py"]
+ CMD ["python", "main.py"]
